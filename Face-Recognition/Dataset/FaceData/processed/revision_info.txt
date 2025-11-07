@@ -1,0 +1,7 @@
+arguments: C:\Users\84836\laragon\www\Face-Recognition\src\align_dataset_mtcnn.py C:\Users\84836\laragon\www\Face-Recognition\Dataset\FaceData\raw C:\Users\84836\laragon\www\Face-Recognition\Dataset\FaceData\processed --image_size 160 --margin 32
+--------------------
+tensorflow version: 2.15.0
+--------------------
+git hash: b''
+--------------------
+b''
